@@ -5,6 +5,7 @@
 
 <img align="right" width="450" height="130" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
+# Create your own webpage using GitHub pages
 For this fist assignment you're going to create a webpage using [GitHub pages](https://pages.github.com/). 
 You'll use this webpage to add some biographical information and a photo of yourself. 
 Throughout the intership you'll be updating this webpage with links to your assignments and other work that you'll complete. 

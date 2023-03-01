@@ -38,7 +38,11 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 * Once you're done select the green **Create Repository** button at the bottom of the page
 
 ### Step 3: Create a new `index.md` file
-You will create a new file called `index.md` that will serve as the landing page for the content for your webpage. To do this you can select the 
+You will create a new file called `index.md` that will serve as the landing page for the content for your webpage. To do this you can select the **Add File** button from the menu on the right and then selecting **New File**. 
+
+[img here]
+
+From here you will create a new **markdown** file called `index.md`
 
 ### Step 4: Commit changes
 

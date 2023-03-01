@@ -5,18 +5,18 @@
 
 <img align="right" width="450" height="130" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
-# Create your own webpage using GitHub pages
+## Create your own webpage using GitHub pages
 For this fist assignment you're going to create a webpage using [GitHub pages](https://pages.github.com/). 
 You'll use this webpage to add some biographical information and a photo of yourself. 
 Throughout the intership you'll be updating this webpage with links to your assignments and other work that you'll complete. 
 You can add a link to your personal website to your resume or CV.
 
 
-## Step 1: Create a GitHub account
+### Step 0: Create a GitHub account
 Use [this link](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to create an account on GitHub if you don't already have one. 
 Your username should be short but something you can easily identify with.
 
-## Step 2: Create a new repository
+### Step 1: Create a new repository
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page
 

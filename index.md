@@ -37,7 +37,8 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 * Choose a **license** for your repository
 * Once you're done select the green **Create Repository** button at the bottom of the page
 
-### Step 3: Create an new `index.md` file
+### Step 3: Create a new `index.md` file
+You will create a new file called `index.md` that will serve as the landing page for the content for your webpage. To do this you can select the 
 
 ### Step 4: Commit changes
 

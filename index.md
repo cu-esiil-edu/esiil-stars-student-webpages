@@ -8,7 +8,7 @@
 ## Create your own webpage using GitHub pages
 In this assignment you will: 
 * Create a `GitHub` account
-* Create a new **repository** in GitHub
+* Create a new **repository** in `GitHub`
 * Learn how to create a webpage using `GitHub pages`
 * Learn how to use `Markdown`
 

@@ -15,7 +15,8 @@ In this assignment you will:
 For this first assignment you're going to create a webpage using [GitHub pages](https://pages.github.com/). 
 You'll use this webpage to add some biographical information and a photo of yourself. 
 Throughout the internship you'll be updating this webpage with links to your assignments and other work that you'll complete. 
-You can add a link to your personal website to your resume or CV.
+
+Don't forget to add a link to your new personal website to your resume or CV!
 
 
 ### Step 0: Create a GitHub account

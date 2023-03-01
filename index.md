@@ -9,7 +9,7 @@
 In this assignment you will: 
 * Create a `GitHub` account
 * Create a new **repository** in `GitHub`
-* Learn how to create a webpage using `GitHub pages`
+* Learn how to create a **webpage** using `GitHub pages`
 * Learn how to use `Markdown`
 
 For this first assignment you're going to create a personal webpage using [GitHub pages](https://pages.github.com/). 

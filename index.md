@@ -1,9 +1,9 @@
 # **ESIIL Stars Spring Training 2023**
-<img align="right" width="325" height="140" src="https://esiil.org/sites/default/files/ESIIL_logo.png">
+<img align="right" width="325" height="150" src="https://esiil.org/sites/default/files/ESIIL_logo.png">
 
-<img align="right" width="170" height="140" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
+<img align="right" width="170" height="150" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
 
-<img align="right" width="450" height="140" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
+<img align="right" width="450" height="150" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
 ## Create your own webpage using GitHub pages
 In this assignment you will: 

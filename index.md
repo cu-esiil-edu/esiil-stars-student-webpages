@@ -8,7 +8,7 @@
 ## Create your own webpage using GitHub pages
 For this fist assignment you're going to create a webpage using [GitHub pages](https://pages.github.com/). 
 You'll use this webpage to add some biographical information and a photo of yourself. 
-Throughout the intership you'll be updating this webpage with links to your assignments and other work that you'll complete. 
+Throughout the internship you'll be updating this webpage with links to your assignments and other work that you'll complete. 
 You can add a link to your personal website to your resume or CV.
 
 
@@ -37,4 +37,10 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 * Choose a **license** for your repository
 * Once you're done select the green **Create Repository** button at the bottom of the page
 
+### Step 3: Create an new `index.md` file
 
+### Step 4: Commit changes
+
+### Step 5: Build and deploy your webpage
+
+### Step 6: Add some additional data to your webpage

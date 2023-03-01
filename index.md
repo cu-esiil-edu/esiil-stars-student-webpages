@@ -89,7 +89,7 @@ Here you should think about adding the following information:
 * A professional headshot image of yourself
 * Your public contact information (email; links to: GitHub account, LinkedIn account, social media accounts)
 * The school that you attend; your year; your major
-* What you're hoping to get out of the ESIIL Stars intership
+* What you're excited about taking away from the ESIIL Stars internship
 
 You can review this link to the [Markdown Cheat Sheet page](https://www.markdownguide.org/cheat-sheet/) to help you format your webpage using Markdown.
 

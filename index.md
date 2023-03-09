@@ -12,18 +12,15 @@ In this assignment you will:
 * Build a **webpage** using `GitHub pages`
 * Learn how to use `Markdown`
 
-For this first assignment, you're going to create a personal webpage using [GitHub pages](https://pages.github.com/). 
-You'll use this webpage to add some biographical information and a photo of yourself. 
-Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
+For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">GitHub pages</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
-You can read more about git and GitHub in our open **Earth Data Science** textbook, [here](earthdatascience.org/courses/intro-to-earth-data-science/git-github/). 
+You can read more about `git` and `GitHub` in our open **Earth Data Science** textbook, <a href="earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**here**</a>. 
 
 Don't forget to link to your new personal website on your resume or CV!
 
 
 ### Step 0: Create a GitHub account
-Use [this link](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to create an account on GitHub if you don't already have one. 
-Your username should be short but something you can easily identify with.
+Use [this link]<a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something you can easily identify with.
 
 ### Step 1: Create a new repository
 
@@ -95,7 +92,7 @@ You can review this link to the <a href="http://www.markdownguide.org/cheat-shee
 
 
 ### Step 7: Post a link to your webpage on Discourse
-Once you're all done you can post a link to your new webpage on the course Dicourse page [here](https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25).
+Once you're all done you can post a link to your new webpage on the course Dicourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">here</a>.
 * Create a new topic (see the `+New Topic` button in the upper right)
 * Give your topic a descriptive name
 * Add link to your webpage

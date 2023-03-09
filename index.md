@@ -14,13 +14,13 @@ In this assignment you will:
 
 For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">GitHub pages</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
-You can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
+While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
 Don't forget to link to your new personal website on your resume or CV!
 
 
 ### Step 0: Create a GitHub account
-Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something you can easily identify with.
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something that you can easily identify with.
 
 ### Step 1: Create a new repository
 
@@ -84,11 +84,14 @@ Now, you're ready to start adding some more information to your webpage. Navigat
 
 Here you should think about adding the following information to your webpage:
 * A professional headshot image of yourself
+* Your name
 * Your public contact information (email; links to: GitHub account, LinkedIn account, social media accounts)
 * The school that you attend; your year; your major
 * What you're excited about taking away from the ESIIL Stars internship
 
-You can review this link to the <a href="http://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown Cheat Sheet page</a> to help you format your webpage using Markdown.
+Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
+
+You will want to review this link to the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown Basic Syntax guide</a> to help you format your webpage using Markdown and HTML.
 
 
 ### Step 7: Post a link to your webpage on Discourse

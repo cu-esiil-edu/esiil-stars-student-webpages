@@ -14,7 +14,7 @@ In this assignment you will:
 
 For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">GitHub pages</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
-You can read more about `git` and `GitHub` in our open <a href="earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
+You can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
 Don't forget to link to your new personal website on your resume or CV!
 

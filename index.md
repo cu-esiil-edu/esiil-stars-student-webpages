@@ -91,6 +91,13 @@ Here you should think about adding the following information to your webpage:
 * The school that you attend; your year; your major
 * What you're excited about taking away from the ESIIL Stars internship
 
-You can review this link to the [Markdown Cheat Sheet page](https://www.markdownguide.org/cheat-sheet/) to help you format your webpage using Markdown.
+You can review this link to the <a href="http://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown Cheat Sheet page</a> to help you format your webpage using Markdown.
 
+
+### Step 7: Post a link to your webpage on Discourse
 Once you're all done you can post a link to your new webpage on the course Dicourse page [here](https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25).
+* Create a new topic (see the `+New Topic` button in the upper right)
+* Give your topic a descriptive name
+* Add link to your webpage
+* Review the webpages posted by your ESIIL Stars colleagues
+* Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)

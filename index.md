@@ -92,7 +92,7 @@ You can review this link to the <a href="http://www.markdownguide.org/cheat-shee
 
 
 ### Step 7: Post a link to your webpage on Discourse
-Once you're all done you can post a link to your new webpage on the course Dicourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">here</a>.
+Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">here</a>.
 * Create a new topic (see the `+New Topic` button in the upper right)
 * Give your topic a descriptive name
 * Add link to your webpage

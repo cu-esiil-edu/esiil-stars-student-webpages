@@ -93,4 +93,4 @@ Here you should think about adding the following information to your webpage:
 
 You can review this link to the [Markdown Cheat Sheet page](https://www.markdownguide.org/cheat-sheet/) to help you format your webpage using Markdown.
 
-Once you're all done you can post a link to your new webpage on the course Dicourse page [here](https://earthlab.earthdatascience.org/t/esiil-stars-student-website-links/579).
+Once you're all done you can post a link to your new webpage on the course Dicourse page [here](https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25).

@@ -20,7 +20,7 @@ Don't forget to link to your new personal website on your resume or CV!
 
 
 ### Step 0: Create a GitHub account
-Use [this link]<a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something you can easily identify with.
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something you can easily identify with.
 
 ### Step 1: Create a new repository
 

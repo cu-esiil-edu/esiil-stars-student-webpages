@@ -12,7 +12,7 @@ In this assignment you will:
 * Build a **webpage** using `GitHub pages`
 * Learn how to use `Markdown` and `HTML`
 
-For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">GitHub pages</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
+For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
 While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
@@ -20,7 +20,7 @@ Don't forget to link to your new personal website on your resume or CV!
 
 
 ### Step 0: Create a GitHub account
-Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">this link</a> to create an account on GitHub if you don't already have one. Your username should be short but something that you can easily identify with.
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an account on GitHub if you don't already have one. Your username should be short but something that you can easily identify with.
 
 ### Step 1: Create a new repository
 
@@ -91,11 +91,11 @@ Here you should think about adding the following information to your webpage:
 
 Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
-You will want to review this link to the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown Basic Syntax guide</a> to help you format your webpage using Markdown and HTML.
+You will want to review this link to the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML.
 
 
 ### Step 7: Post a link to your webpage on Discourse
-Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">here</a>.
+Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the `+New Topic` button in the upper right)
 * Give your topic a descriptive name
 * Add link to your webpage

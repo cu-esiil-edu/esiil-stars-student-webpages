@@ -86,7 +86,9 @@ Now you'll want to select the **main** (or **master**) option under the **Branch
 ***
 
 ### Step 5: Check on your webpage
-See if your webpage has built by opening the link `https://USERNAME.github.io/REPOSITORY-NAME/` in your web browser. **NOTE:** Sometimes this can take 2-3 minutes to build so _be patient_ and refresh your page every minute or so until the page is done building.
+See if your webpage has built by opening the link `https://USERNAME.github.io/REPOSITORY-NAME/` in your web browser. 
+
+> **NOTE:** Sometimes this can take 2-3 minutes to build so _be patient_ and refresh your page every minute or so until the page is done building.
 
 
 ***
@@ -109,7 +111,7 @@ Here you should think about adding the following information to your webpage:
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
 
-**IMPORTANT:** Don't forget to **commit changes** so that your updated content gets added to your webpage.
+**IMPORTANT:** Always remember to **commit changes** so that your updated content gets added to your webpage.
 
 ***
 

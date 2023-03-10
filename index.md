@@ -86,9 +86,9 @@ Now you'll want to select the **main** option under the **Branch** heading and t
 ***
 
 ### Step 5: Check on your webpage
-See if your webpage has built by opening the link `https://USERNAME.github.io/REPOSITORY-NAME/` in your web browser. 
+See how your webpage is doing by opening the link `https://username.github.io/repository-name/` in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above.
 
-> **NOTE:** Sometimes this can take 2-3 minutes to build so _be patient_ and refresh your page every minute or so until the page is done building.
+> **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh your page every so often until the page is done building.
 
 
 ***

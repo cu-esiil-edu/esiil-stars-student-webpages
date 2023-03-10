@@ -116,6 +116,6 @@ Here you should think about adding the following information to your webpage:
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the `+New Topic` button in the upper right)
 * Give your topic a descriptive name
-* Add link to your webpage
+* Share a link to your webpage
 * Review the webpages posted by your ESIIL Stars colleagues
 * Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)

@@ -97,16 +97,18 @@ Now, you're ready to start adding some more information to your webpage. Navigat
 
 Here you should think about adding the following information to your webpage:
 * A professional headshot image of yourself
-* Your name
-* Your public contact information (email; links to: GitHub account, LinkedIn account, social media accounts)
-* The school that you attend; your year; your major
-* What you're excited about taking away from the ESIIL Stars internship
+* Your name (as a header)
+* A bulleted list of links to your public contact information (email, GitHub account, LinkedIn account, social media accounts, etc.)
+* The name of the school that you attend; your year; your major
+* What you're excited about learning as an ESIIL Stars intern
 
+
+> You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML.
+>
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
-> You will want to review this link to the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML.
 
-**IMPORTANT:** Don't forget to **commit changes** so that your updated content get added to your webpage.
+**IMPORTANT:** Don't forget to **commit changes** so that your updated content gets added to your webpage.
 
 ***
 

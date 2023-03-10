@@ -1,4 +1,4 @@
-# **ESIIL Stars Spring Training 2023**
+# **ESIIL Stars Spring Training**
 <img align="right" width="325" height="150" src="https://esiil.org/sites/default/files/ESIIL_logo.png">
 
 <img align="right" width="170" height="150" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
@@ -22,7 +22,9 @@ Don't forget to link to your new personal website on your resume or CV!
 ***
 
 ### Step 0: Create a GitHub account
-Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an account on GitHub if you don't already have one. Your username should be short but something that you can easily identify with.
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an account on GitHub _if you don't already have one_. 
+
+> **Protip:** Your GitHub <a href="https://happygitwithr.com/github-acct.html" target="_blank">**username**</a> should be short but something that you can easily identify with.
 
 ***
 

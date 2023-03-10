@@ -15,9 +15,7 @@
 
 For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
-While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
-
-Don't forget to link to your new personal website on your resume or CV!
+> While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
 ***
 
@@ -122,3 +120,5 @@ Once you're all done you can post a link to your new webpage on the course Disco
 * Share a link to your webpage
 * Review the webpages posted by your ESIIL Stars colleagues
 * Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)
+
+> #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

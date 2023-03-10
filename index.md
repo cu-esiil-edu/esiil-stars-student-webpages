@@ -1,4 +1,4 @@
-# **ESIIL Stars Spring Training 2023**
+# **ESIIL Stars Spring Training**
 <img align="right" width="325" height="150" src="https://esiil.org/sites/default/files/ESIIL_logo.png">
 
 <img align="right" width="170" height="150" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
@@ -6,7 +6,8 @@
 <img align="right" width="450" height="150" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
 ## Create your own webpage using GitHub pages
-In this assignment you will: 
+
+#### In this assignment you will: 
 * Make a `GitHub` account
 * Create a new **repository** in `GitHub`
 * Build a **webpage** using `GitHub pages`
@@ -14,14 +15,14 @@ In this assignment you will:
 
 For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
-While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
-
-Don't forget to link to your new personal website on your resume or CV!
+> While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
 ***
 
 ### Step 0: Create a GitHub account
-Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an account on GitHub if you don't already have one. Your username should be short but something that you can easily identify with.
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an GitHub account. _**If you already have a GitHub account, there is no need to create a new account!**_
+
+> **Protip:** Your GitHub <a href="https://happygitwithr.com/github-acct.html" target="_blank">**username**</a> should be short but something that you can easily identify with.
 
 ***
 
@@ -85,7 +86,9 @@ Now you'll want to select the **main** (or **master**) option under the **Branch
 ***
 
 ### Step 5: Check on your webpage
-See if your webpage has built by opening the link `https://USERNAME.github.io/REPOSITORY-NAME/` in your web browser. **NOTE:** Sometimes this can take 2-3 minutes to build so _be patient_ and refresh your page every minute or so until the page is done building.
+See if your webpage has built by opening the link `https://USERNAME.github.io/REPOSITORY-NAME/` in your web browser. 
+
+> **NOTE:** Sometimes this can take 2-3 minutes to build so _be patient_ and refresh your page every minute or so until the page is done building.
 
 
 ***
@@ -108,7 +111,7 @@ Here you should think about adding the following information to your webpage:
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
 
-**IMPORTANT:** Don't forget to **commit changes** so that your updated content gets added to your webpage.
+**IMPORTANT:** Always remember to **commit changes** so that your updated content gets added to your webpage.
 
 ***
 
@@ -119,3 +122,5 @@ Once you're all done you can post a link to your new webpage on the course Disco
 * Share a link to your webpage
 * Review the webpages posted by your ESIIL Stars colleagues
 * Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)
+
+> #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

@@ -6,7 +6,8 @@
 <img align="right" width="450" height="150" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
 ## Create your own webpage using GitHub pages
-In this assignment you will: 
+
+#### In this assignment you will: 
 * Make a `GitHub` account
 * Create a new **repository** in `GitHub`
 * Build a **webpage** using `GitHub pages`

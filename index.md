@@ -29,11 +29,11 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/repositories.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 
 From here, you can select the green **New** button on the right to get started.
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/new-repo.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/new-repo.png">
 
 Give your new repository a name that is descriptive so you can easily search for it later on. 
 
@@ -53,7 +53,7 @@ You will create a new file called `index.md` that will serve as the landing page
 * Select the **Add file** button from the menu on the right
 * Select **Create new file**. 
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/create-new-file.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/create-new-file.png">
 
 From here you will create a new **Markdown** file called `index.md`. 
 
@@ -65,22 +65,22 @@ Add the following Markdown text to this file:
 ### Step 3: Commit changes
 Now that you've created your `index.md` file and added some text, you'll want to **commit changes** to your repository. Add a description to your changes and then select the green **Commit changes** button at the bottom of the page.
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/commit-changes.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/commit-changes.png">
 
 ***
 
 ### Step 4: Build and deploy your webpage
 Once you've created your `index.md` file you're ready to build and deploy your webpage. From your repository, select the **Settings** tab from right end of the menu. 
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/settings.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/settings.png">
 
 From here, scroll down the menu on the **left** and select **Pages**.
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/pages.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/pages.png">
 
 Now you'll want to select the **main** option under the **Branch** heading and then hit **Save**.
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/select-branch-main.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/select-main-branch.png">
 
 ***
 

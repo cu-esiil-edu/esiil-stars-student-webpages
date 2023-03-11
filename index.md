@@ -41,7 +41,7 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 
 * You can give your repository a **description**
 * Make your repository **Public**
-* Check the box to add a `README` file to your repository
+* Check the box to add a `README` file to your repository (you will edit this later)
 * You can skip adding the **gitignore** for now
 * Choose a **License** for your repository
 * Once you're done, select the green **Create Repository** button at the bottom of the page

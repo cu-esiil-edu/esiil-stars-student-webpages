@@ -80,7 +80,7 @@ From here, scroll down the menu on the **left** and select **Pages**.
 
 Now you'll want to select the **main** option under the **Branch** heading and then hit **Save**.
 
-<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/select-main-branch.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/select-branch-main.png">
 
 ***
 

@@ -95,7 +95,7 @@ Check in on your webpage to see how it is doing by opening the link `https://use
 ### Step 6: Add some additional information to your webpage
 Now, you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
 
-<img src="https://github.com/cu-esiil-edu/esiil-stars-student-webpages/blob/main/images/edit-file.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
 
 Here you should think about adding the following information to your webpage:
 * A professional headshot image of yourself

@@ -98,7 +98,7 @@ Check in on your webpage to see how it is doing by opening the link `https://use
 ***
 
 ## Step 6: Start adding information to your webpage
-Now you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
+Now you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. You will use **Markdown** and **Hypertext Markup Language (HTML)** to add text, links, images, and other content to your webpage. Markdown and HTML are both common markup langauges, and have wide application including formatting text, report writing, and website development.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
 

@@ -115,10 +115,10 @@ Here you should think about adding the following information to your webpage:
 
 ### Step 7: Post a link to your webpage on Discourse
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
-* Create a new topic (see the `+New Topic` button in the upper right)
-* Give your topic a descriptive name
-* Share a link to your webpage and to the repository your created
-* Review the webpages posted by your ESIIL Stars colleagues
-* Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
+* Create a new topic (see the **`+New Topic`** button in the upper right)
+* Give your topic a **descriptive name**
+* Share a link to your **webpag**e and to the **repository** your created
+* **Review** the webpages posted by your ESIIL Stars colleagues
+* **Reply** to some of your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
 
 > #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

@@ -102,12 +102,13 @@ Now you're ready to start adding some more information to your webpage. Navigate
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
 
-Here you should think about adding the following information to your webpage:
-* A professional headshot image of yourself
-* Your name (as a header)
-* A bulleted list of links to your public contact information (email, GitHub account, LinkedIn account, social media accounts, etc.)
-* The name of the school that you attend; your year; your major
-* What you're excited about learning as an ESIIL Stars intern
+#### Here you should think about adding the following information to your webpage:
+* A professional **headshot image** of yourself
+* Your **name** (as a _**header**_)
+* A **bulleted list** of links to your public **contact information** (email, GitHub account, LinkedIn account, social media accounts, etc.)
+* The name of the **school** that you attend; your **year**; your **major**
+* What you're **excited about learning** as an ESIIL Stars intern
+* **Questions** that you'd like to answer using **Earth Data Science**
 
 
 > **NOTE:** You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using **`Markdown`** and **`HTML`**. We also have a <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/" target="_blank">**lesson**</a> in our **Earth Data Science** textbook that may be helpful.

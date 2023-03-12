@@ -104,6 +104,7 @@ Now you're ready to start adding some more information to your webpage. Navigate
 
 #### Here you should think about adding the following information to your webpage:
 * A professional **headshot image** of yourself
+* Your name (as a _**header**_) if you haven't already
 * A **bulleted list** of links to your public **contact information** (email, GitHub account, LinkedIn account, social media accounts, etc.)
 * The name of the **school** that you attend; your **year**; your **major**
 * A **biographical paragraph** about yourself

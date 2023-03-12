@@ -26,7 +26,7 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
 
-> **NOTE:** A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+> **NOTE:** A <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories" target="_blank">**repository**</a> contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 

@@ -1,10 +1,7 @@
 <img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 
-# **ESIIL Stars Spring Training**
-
-
-## Create your own webpage using GitHub pages
+# Create your own webpage using GitHub pages
 
 #### In this assignment you will: 
 * Make a `GitHub` account
@@ -107,6 +104,8 @@ Here you should think about adding the following information to your webpage:
 
 > You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML.
 >
+> When posting <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">**links**</a> and <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">**images**</a> you may appreciate the added control of HTML over Markdown. 
+>
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
 
@@ -118,8 +117,8 @@ Here you should think about adding the following information to your webpage:
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the `+New Topic` button in the upper right)
 * Give your topic a descriptive name
-* Share a link to your webpage
+* Share a link to your webpage and to the repository your created
 * Review the webpages posted by your ESIIL Stars colleagues
-* Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)
+* Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
 
 > #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

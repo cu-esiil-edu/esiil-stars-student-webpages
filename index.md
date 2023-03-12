@@ -63,7 +63,7 @@ Add the following Markdown text to this file:
 ***
 
 ### Step 3: Commit changes
-Now that you've created your `index.md` file and added some text, you'll want to **commit changes** to your repository. Add a description to your changes and then select the green **Commit changes** button at the bottom of the page.
+Now that you've created your `index.md` file and added some text, you'll want to **commit changes** to your repository. Add an optional extended description of your changes and then select the green **Commit changes** button at the bottom of the page.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/commit-changes.png">
 
@@ -78,22 +78,22 @@ From here, scroll down the menu on the **left** and select **Pages**.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/pages.png">
 
-Now you'll want to select the **main** option under the **Branch** heading and then hit **Save**.
+Now you'll want to select the **main** option under the **Branch** heading and then select **Save**.
 
-<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/select-main-branch.png">
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/select-branch-main.png">
 
 ***
 
 ### Step 5: Check on your webpage
-Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above.
+Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above.
 
-> **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh your page every so often until the page is done building.
+> **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh your page every 30 seconds or so until the page is done building.
 
 
 ***
 
 ### Step 6: Add some additional information to your webpage
-Now, you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
+Now you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
 

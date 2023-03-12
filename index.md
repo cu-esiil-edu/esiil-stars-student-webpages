@@ -15,7 +15,7 @@ For this first assignment, you're going to create a **personal webpage** using <
 
 ***
 
-### Step 0: Create a GitHub account
+## Step 0: Create a GitHub account
 Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create a free GitHub account. _**If you already have a GitHub account, there is no need to create a new account!**_
 
 > **Protip:** Your GitHub <a href="https://happygitwithr.com/github-acct.html" target="_blank">**username**</a> should be short and something that you can easily remember and identify with.

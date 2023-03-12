@@ -22,7 +22,7 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 ***
 
-### Step 1: Create a new repository
+## Step 1: Create a new repository
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
 
@@ -50,7 +50,7 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 
 ***
 
-### Step 2: Create a new `index.md` file
+## Step 2: Create a new `index.md` file
 You will create a new file called `index.md` that will serve as the content for your webpage. To do this you can :
 * Select the **Add file** button from the menu on the right
 * Select **Create new file**. 
@@ -66,14 +66,14 @@ Add the following **Markdown header** text to your index file:
 
 ***
 
-### Step 3: Commit changes
+## Step 3: Commit changes
 Now that you've created your `index.md` file and added some text, you'll want to **commit changes** to your repository. Add an optional extended description of your changes and then select the green **Commit changes** button at the bottom of the page.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/commit-changes.png">
 
 ***
 
-### Step 4: Build your webpage
+## Step 4: Build your webpage
 Once you've created your `index.md` file you're ready to build your webpage. From your repository, select the **Settings** tab from right end of the menu. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/settings.png">
@@ -88,7 +88,7 @@ Now you'll want to select the **main** option under the **Branch** heading and t
 
 ***
 
-### Step 5: Check on your webpage
+## Step 5: Check on your webpage
 Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above. Once you see your name appear as a Markdown header then you know your webpage is working!
 
 
@@ -97,7 +97,7 @@ Check in on your webpage to see how it is doing by opening the link `https://use
 
 ***
 
-### Step 6: Start adding information to your webpage
+## Step 6: Start adding information to your webpage
 Now you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
@@ -122,7 +122,7 @@ Now you're ready to start adding some more information to your webpage. Navigate
 
 ***
 
-### Step 7: Post a link to your webpage on Discourse
+## Step 7: Post a link to your webpage on Discourse
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the **`+New Topic`** button in the upper right)
 * Give your topic a **descriptive name**
@@ -131,4 +131,4 @@ Once you're all done you can post a link to your new webpage on the course Disco
 * **Reply** to your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
 * Try to connect with **at least one intern** from each of the three participating schools (**OLC, MSU, UTTC**)
 
-> #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.
+> ### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

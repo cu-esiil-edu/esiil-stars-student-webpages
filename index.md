@@ -9,7 +9,7 @@
 * Build a **webpage** using `GitHub pages`
 * Learn how to use `Markdown` and `HTML`
 
-For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
+For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a> and <a href="https://www.markdownguide.org/getting-started/" target="_blank">**Markdown**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
 
 > While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
@@ -26,6 +26,8 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
 
+> **NOTE:** A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 
 From here, you can select the green **New** button on the right to get started.
@@ -38,7 +40,7 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 
 * You can give your repository a **description**
 * Make your repository **Public**
-* Check the box to add a `README` file to your repository (you will edit this later)
+* Check the box to add a `README` file to your repository (you will edit this later using **Markdown**)
 * You can skip adding the **gitignore** for now
 * Choose a **License** for your repository
 * Once you're done, select the green **Create Repository** button at the bottom of the page
@@ -102,7 +104,7 @@ Here you should think about adding the following information to your webpage:
 * What you're excited about learning as an ESIIL Stars intern
 
 
-> You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML. We also have a <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/" target="_blank">**lesson**</a> in our **Earth Data Science** textbook that may be helpful.
+> **NOTE:** You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using **`Markdown`** and **`HTML`**. We also have a <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/" target="_blank">**lesson**</a> in our **Earth Data Science** textbook that may be helpful.
 >
 > When posting <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">**links**</a> and <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">**images**</a> you may appreciate the added control of HTML over Markdown. 
 >

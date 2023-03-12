@@ -9,7 +9,7 @@
 * Build a **webpage** using `GitHub pages`
 * Learn how to use `Markdown` and `HTML`
 
-For this first assignment, you're going to create a personal webpage using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a> and <a href="https://www.markdownguide.org/getting-started/" target="_blank">**Markdown**</a>. You'll use this webpage to add some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments (spring), team project progess (summer), and other work that you'll complete (throughout). 
+For this first assignment, you're going to create a **personal webpage** using <a href="https://pages.github.com/" target="_blank">**GitHub pages**</a> and the popular **markup language** <a href="https://www.markdownguide.org/getting-started/" target="_blank">**Markdown**</a>. You'll use this webpage to share some biographical information and a photo of yourself. Throughout this internship, you'll be updating your webpage with links to assignments, team project progess, and other work that you'll complete. 
 
 > While not required for this first assignment, you can read more about `git` and `GitHub` in our open <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/" target="_blank">**Earth Data Science**</a> textbook. 
 
@@ -26,7 +26,7 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
 
-> **NOTE:** A <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories" target="_blank">**repository**</a> contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+> **NOTE:** A <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories" target="_blank">**repository**</a> contains all of your project's files and each file's **revision history**. You can discuss and manage your project's work within the repository.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 
@@ -54,10 +54,14 @@ You will create a new file called `index.md` that will serve as the landing page
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/create-new-file.png">
 
-From here you will create a new **Markdown** file called `index.md`. 
+From here you will create a new **Markdown** file called `index.md` 
 
-Add the following Markdown text to this file:
-`## ADD YOUR NAME HERE`
+Add the following **Markdown header** text to your index file:
+`## ADD YOUR NAME HERE` 
+
+>**NOTE:** You can change this text to your name!
+
+
 
 ***
 

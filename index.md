@@ -1,10 +1,7 @@
 <img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 
-# **ESIIL Stars Spring Training**
-
-
-## Create your own webpage using GitHub pages
+# Create your own webpage using GitHub pages
 
 #### In this assignment you will: 
 * Make a `GitHub` account
@@ -105,7 +102,9 @@ Here you should think about adding the following information to your webpage:
 * What you're excited about learning as an ESIIL Stars intern
 
 
-> You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML.
+> You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using Markdown and HTML. We also have a <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/" target="_blank">**lesson**</a> in our **Earth Data Science** textbook that may be helpful.
+>
+> When posting <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">**links**</a> and <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">**images**</a> you may appreciate the added control of HTML over Markdown. 
 >
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 
@@ -116,10 +115,10 @@ Here you should think about adding the following information to your webpage:
 
 ### Step 7: Post a link to your webpage on Discourse
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
-* Create a new topic (see the `+New Topic` button in the upper right)
-* Give your topic a descriptive name
-* Share a link to your webpage
-* Review the webpages posted by your ESIIL Stars colleagues
-* Reply to some of your classmate’s posts and tag them in your response. Ask them a question, or give them feedback, based their webpage (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; etc.)
+* Create a new topic (see the **`+New Topic`** button in the upper right)
+* Give your topic a **descriptive name**
+* Share a link to your **webpag**e and to the **repository** your created
+* **Review** the webpages posted by your ESIIL Stars colleagues
+* **Reply** to some of your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
 
 > #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

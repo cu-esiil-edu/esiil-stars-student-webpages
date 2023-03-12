@@ -62,7 +62,7 @@ From here you will create a new **Markdown** file called `index.md`
 Add the following **Markdown header** text to your index file:
 `## ADD YOUR NAME HERE` 
 
->**NOTE:** You can change this text to your name!
+>**NOTE:** You can change this text to your name or something else. This is _**your**_ website, and you'll always be able to come back and make edits!
 
 ***
 
@@ -89,7 +89,7 @@ Now you'll want to select the **main** option under the **Branch** heading and t
 ***
 
 ## Step 5: Check on your webpage
-Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above. Once you see your name appear as a Markdown header then you know your webpage is working!
+Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above. Once you see your name (or whatever text you added to your `index.md` file in **Step 2**) appear as a Markdown header, then you know your webpage is working!
 
 
 > **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh every 30 seconds or so until the page is done building.

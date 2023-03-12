@@ -129,6 +129,6 @@ Once you're all done you can post a link to your new webpage on the course Disco
 * Share a link to your **webpage** and to the **repository** your created
 * **Review** the webpages posted by your ESIIL Stars colleagues
 * **Reply** to your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
-* Try to connect with **at least one intern** from each of the three participating schools (**OLC, MSU, UTTC**)
+* Try to connect with **at least one intern** from _each_ of the three participating schools (**OLC, MSU, UTTC**)
 
 > ### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

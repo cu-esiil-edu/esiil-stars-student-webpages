@@ -74,7 +74,7 @@ Now that you've created your `index.md` file and added some text, you'll want to
 ***
 
 ## Step 4: Build your webpage
-Once you've created your `index.md` file you're ready to build your webpage. From your repository, select the **Settings** tab from right end of the menu. 
+Once you've created your `index.md` file you're ready to build your webpage. From your repository, select the **Settings** tab from the right end of the menu. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/settings.png">
 

@@ -106,7 +106,7 @@ Here you should think about adding the following information to your webpage:
 
 > **NOTE:** You will want to review the <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">**Markdown Basic Syntax guide**</a> to help you format your webpage using **`Markdown`** and **`HTML`**. We also have a <a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/" target="_blank">**lesson**</a> in our **Earth Data Science** textbook that may be helpful.
 >
-> When adding <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">**links**</a> and <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">**images**</a> to your webpage, you may appreciate the added control of Hyper Text Markup Language (HTML) over Markdown. 
+> When adding <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">**links**</a> and <a href="https://www.w3schools.com/html/html_images.asp" target="_blank">**images**</a> to your webpage, you may appreciate the added control of Hypertext Markup Language (HTML) over Markdown. 
 >
 > Get creative here! Add some fun and interesting things about yourself. Pictures of pets are also always a major bonus! Anything you want to add here to help tell your story, please go ahead.
 

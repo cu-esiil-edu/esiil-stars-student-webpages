@@ -16,7 +16,7 @@ For this first assignment, you're going to create a **personal webpage** using <
 ***
 
 ### Step 0: Create a GitHub account
-Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create an GitHub account. _**If you already have a GitHub account, there is no need to create a new account!**_
+Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">**this link**</a> to create a free GitHub account. _**If you already have a GitHub account, there is no need to create a new account!**_
 
 > **Protip:** Your GitHub <a href="https://happygitwithr.com/github-acct.html" target="_blank">**username**</a> should be short and something that you can easily remember and identify with.
 
@@ -36,6 +36,7 @@ From here, you can select the green **New** button on the right to get started.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/new-repo.png">
 
+
 Give your new repository a name that is descriptive so you can easily search for it later on. 
 
 Something like `username-esiil-stars-webpage` would be appropriate.
@@ -50,7 +51,7 @@ Something like `username-esiil-stars-webpage` would be appropriate.
 ***
 
 ### Step 2: Create a new `index.md` file
-You will create a new file called `index.md` that will serve as the landing page for the content for your webpage. To do this you can :
+You will create a new file called `index.md` that will serve as the content for your webpage. To do this you can :
 * Select the **Add file** button from the menu on the right
 * Select **Create new file**. 
 
@@ -63,8 +64,6 @@ Add the following **Markdown header** text to your index file:
 
 >**NOTE:** You can change this text to your name!
 
-
-
 ***
 
 ### Step 3: Commit changes
@@ -74,8 +73,8 @@ Now that you've created your `index.md` file and added some text, you'll want to
 
 ***
 
-### Step 4: Build and deploy your webpage
-Once you've created your `index.md` file you're ready to build and deploy your webpage. From your repository, select the **Settings** tab from right end of the menu. 
+### Step 4: Build your webpage
+Once you've created your `index.md` file you're ready to build your webpage. From your repository, select the **Settings** tab from right end of the menu. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/settings.png">
 
@@ -90,23 +89,24 @@ Now you'll want to select the **main** option under the **Branch** heading and t
 ***
 
 ### Step 5: Check on your webpage
-Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above.
+Check in on your webpage to see how it is doing by opening the link `https://username.github.io/repository-name/` in a **new tab** in your web browser. Here, you'll need to replace `username` with your GitHub username and `repository-name` with the name of the repository that you created above. Once you see your name appear as a Markdown header then you know your webpage is working!
 
-> **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh your page every 30 seconds or so until the page is done building.
+
+> **NOTE:** Sometimes your webpage can take a minute or so to build so _be patient_ and refresh every 30 seconds or so until the page is done building.
 
 
 ***
 
-### Step 6: Add some additional information to your webpage
+### Step 6: Start adding information to your webpage
 Now you're ready to start adding some more information to your webpage. Navigate back to your repository and open the `index.md` file that you just created. You will edit this page by clicking on the **pencil** icon on the right of the menu near the top of repository page on GitHub. 
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/edit-file.png">
 
 #### Here you should think about adding the following information to your webpage:
 * A professional **headshot image** of yourself
-* Your **name** (as a _**header**_)
 * A **bulleted list** of links to your public **contact information** (email, GitHub account, LinkedIn account, social media accounts, etc.)
 * The name of the **school** that you attend; your **year**; your **major**
+* A **biographical paragraph** about yourself
 * What you're **excited about learning** as an ESIIL Stars intern
 * **Questions** that you'd like to answer using **Earth Data Science**
 
@@ -126,8 +126,9 @@ Now you're ready to start adding some more information to your webpage. Navigate
 Once you're all done you can post a link to your new webpage on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the **`+New Topic`** button in the upper right)
 * Give your topic a **descriptive name**
-* Share a link to your **webpag**e and to the **repository** your created
+* Share a link to your **webpage** and to the **repository** your created
 * **Review** the webpages posted by your ESIIL Stars colleagues
-* **Reply** to some of your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
+* **Reply** to your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
+* Try to connect with **at least one intern** from each of the three participating schools (**OLC, MSU, UTTC**)
 
 > #### Don't forget to add a link to your new webage to your resumé or CV! Or, think about how your could turn your resumé _**into**_ a webpage.

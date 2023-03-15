@@ -30,9 +30,10 @@ To do this you can:
 * Navigate to your profile page
   * Click on the dropdown arrow next to your profile photo in the upper right corner
   * Select **Your profile**
+
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/your-profile.png">
   
-From here, select the **Repositories** tab from the menu near the top of the page.
+Select the **Repositories** tab from the menu near the top of the page.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 

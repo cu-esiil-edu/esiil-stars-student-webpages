@@ -24,7 +24,15 @@ Use <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out
 
 ## Step 1: Create a new repository
 
-Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. One way is to go to your profile page on GitHub and select the **Repositories** tab from the menu near the top of the page.
+Once you have a GitHub account, get started by creating a new **repository** for your webpage. There are several ways to accomplish this task. 
+
+To do this you can:
+* Navigate to your profile page
+  * Click on the dropdown arrow next to your profile photo in the upper right corner
+  * Select **Your profile**
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/your-profile.png">
+  
+From here, select the **Repositories** tab from the menu near the top of the page.
 
 <img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-student-webpages/main/images/repositories.png">
 

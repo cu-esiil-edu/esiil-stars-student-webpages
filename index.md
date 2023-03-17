@@ -132,7 +132,7 @@ Now you're ready to start adding some more information to your webpage. Navigate
 
 ***
 
-## Step 7: Post a link to your webpage on and repository Discourse
+## Step 7: Post links to your webpage on and repository Discourse
 
 #### Once you're all done you can post a link to your new webpage and GitHub repository on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the **`+New Topic`** button in the upper right)

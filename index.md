@@ -137,7 +137,9 @@ Now you're ready to start adding some more information to your webpage. Navigate
 #### Once you're all done you can post links to your new webpage and GitHub repository on the course Discourse page <a href="https://earthlab.earthdatascience.org/c/esiil-stars/esiil-stars-student-webpages/25" target="_blank">**here**</a>.
 * Create a new topic (see the **`+New Topic`** button in the upper right)
 * Give your topic a **descriptive name**
-* Share links to your **webpage** and to the GitHub **repository** your created
+* Share links to your
+  * **Webpage:** **`https://username.github.io/repository-name/`**
+  * GitHub **repository** your created: **`https://github.com/username/repository-name`**
 * **Review** the webpages posted by your ESIIL Stars colleagues
 * **Reply** to your classmates' posts and **tag them in your responses**. Ask them questions, or give them feedback, based their webpage or code (things they’re interested in; things they hope to get out of this internship; areas that you can collaborate; common interests; questions about their code; etc.)
 * Try to connect with **at least one intern** from _each_ of the three participating schools (**OLC, MSU, UTTC**)

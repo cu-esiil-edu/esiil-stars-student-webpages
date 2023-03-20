@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
+<img align="right" width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 
 # Create your own webpage using GitHub pages
